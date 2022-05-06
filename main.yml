@@ -1,1 +1,3 @@
 -Installing apache server
+- creating httpd.conf from template
+- restarting apache
