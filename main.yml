@@ -1,3 +1,6 @@
 -Installing apache server
 - creating httpd.conf from template
 - restarting apache
+- creating virtualhost from virtualhost.conf.tmpl
+- creating documentroot
+- creating test pages
